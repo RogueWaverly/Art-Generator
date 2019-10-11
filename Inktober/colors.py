@@ -7,6 +7,8 @@ colors = {
   'canary': (255, 255, 153),
   'magenta': (255, 153, 255),
   'white': (255, 255, 255),
+  'taiwan-blue': (0, 0, 151),
+  'taiwan-red': (254, 0, 0),
 }
 
 def random_color():
